@@ -1,0 +1,384 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 1200px;
+  height: 100px;
+  margin: 0 auto;
+}
+#logo {
+  width: 300px;
+  height: 70px;
+  margin: 0 auto;
+  position: relative;
+  top: 15px;
+}
+#logo h1 {
+  text-align: center;
+  line-height: 70px;
+}
+#logo a {
+  text-decoration: none;
+  color: black;
+}
+#menu {
+  width: 1200px;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+}
+#menu li {
+  display: inline;
+  line-height: 50px;
+}
+#menu a {
+  text-decoration: none;
+  color: #555555;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+#contents_title h2 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#contents {
+  width: 1200px;
+  height: 2490px;
+  margin: 0 auto;
+  color: #6a6a6a;
+}
+#contents_show_01 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+}
+#shirt_01 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#shirt_01 img {
+  width: 285px;
+}
+#shirt_01_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_01 p {
+  padding-top: 10px;
+}
+#shirt_02 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_02 img {
+  width: 285px;
+}
+#shirt_02_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_02 p {
+  padding-top: 10px;
+}
+#shirt_03 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_03 img {
+  width: 285px;
+}
+#shirt_03_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_03 p {
+  padding-top: 10px;
+}
+#shirt_04 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_04 img {
+  width: 285px;
+}
+#shirt_04_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_04 p {
+  padding-top: 10px;
+}
+#contents_show_02 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#shirt_05 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#shirt_05 img {
+  width: 285px;
+}
+#shirt_05_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_05 p {
+  padding-top: 10px;
+}
+#shirt_06 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_06 img {
+  width: 285px;
+}
+#shirt_06_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_06 p {
+  padding-top: 10px;
+}
+#shirt_07 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_07 img {
+  width: 285px;
+}
+#shirt_07_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_07 p {
+  padding-top: 10px;
+}
+#shirt_08 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_08 img {
+  width: 285px;
+}
+#shirt_08_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_08 p {
+  padding-top: 10px;
+}
+#contents_show_03 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#shirt_09 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#shirt_09 img {
+  width: 285px;
+}
+#shirt_09_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_09 p {
+  padding-top: 10px;
+}
+#shirt_10 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_10 img {
+  width: 285px;
+}
+#shirt_10_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_10 p {
+  padding-top: 10px;
+}
+#shirt_11 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_11 img {
+  width: 285px;
+}
+#shirt_11_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_11 p {
+  padding-top: 10px;
+}
+#shirt_12 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_12 img {
+  width: 285px;
+}
+#shirt_12_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_12 p {
+  padding-top: 10px;
+}
+#contents_show_04 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#shirt_13 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#shirt_13 img {
+  width: 285px;
+}
+#shirt_13_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_13 p {
+  padding-top: 10px;
+}
+#shirt_14 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_14 img {
+  width: 285px;
+}
+#shirt_14_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_14 p {
+  padding-top: 10px;
+}
+#shirt_15 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_15 img {
+  width: 285px;
+}
+#shirt_15_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_15 p {
+  padding-top: 10px;
+}
+#shirt_16 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#shirt_16 img {
+  width: 285px;
+}
+#shirt_16_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#shirt_16 p {
+  padding-top: 10px;
+}
+#footer {
+  width: 100%;
+  height: 100%;
+  background-color: #f5f5f5;
+  margin-top: 150px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
