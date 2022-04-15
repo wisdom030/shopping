@@ -1,0 +1,400 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 1200px;
+  height: 100px;
+  margin: 0 auto;
+}
+#logo {
+  width: 300px;
+  height: 70px;
+  margin: 0 auto;
+  position: relative;
+  top: 15px;
+}
+#logo h1 {
+  text-align: center;
+  line-height: 70px;
+}
+#logo a {
+  text-decoration: none;
+  color: black;
+}
+#menu {
+  width: 1200px;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+}
+#menu li {
+  display: inline;
+  line-height: 50px;
+}
+#menu a {
+  text-decoration: none;
+  color: #555555;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+#contents_title h2 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#contents {
+  width: 1200px;
+  height: 2490px;
+  margin: 0 auto;
+  color: #6a6a6a;
+}
+#contents_show_01 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+}
+#skirt_01 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#skirt_01 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_01_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_01 p {
+  padding-top: 10px;
+}
+#skirt_02 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_02 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_02_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_02 p {
+  padding-top: 10px;
+}
+#skirt_03 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_03 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_03_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_03 p {
+  padding-top: 10px;
+}
+#skirt_04 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_04 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_04_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_04 p {
+  padding-top: 10px;
+}
+#contents_show_02 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#skirt_05 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#skirt_05 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_05_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_05 p {
+  padding-top: 10px;
+}
+#skirt_06 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_06 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_06_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_06 p {
+  padding-top: 10px;
+}
+#skirt_07 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_07 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_07_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_07 p {
+  padding-top: 10px;
+}
+#skirt_08 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_08 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_08_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_08 p {
+  padding-top: 10px;
+}
+#contents_show_03 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#skirt_09 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#skirt_09 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_09_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_09 p {
+  padding-top: 10px;
+}
+#skirt_10 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_10 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_10_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_10 p {
+  padding-top: 10px;
+}
+#skirt_11 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_11 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_11_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_11 p {
+  padding-top: 10px;
+}
+#skirt_12 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_12 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_12_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_12 p {
+  padding-top: 10px;
+}
+#contents_show_04 {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#skirt_13 {
+  width: 285px;
+  height: 600px;
+  float: left;
+}
+#skirt_13 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_13_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_13 p {
+  padding-top: 10px;
+}
+#skirt_14 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_14 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_14_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_14 p {
+  padding-top: 10px;
+}
+#skirt_15 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_15 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_15_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_15 p {
+  padding-top: 10px;
+}
+#skirt_16 {
+  width: 285px;
+  height: 600px;
+  float: left;
+  margin-left: 20px;
+}
+#skirt_16 img {
+  width: 285px;
+  cursor: pointer;
+}
+#skirt_16_title {
+  content: "";
+  display: block;
+  width: 285px;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#skirt_16 p {
+  padding-top: 10px;
+}
+#footer {
+  width: 100%;
+  height: 100%;
+  background-color: #f5f5f5;
+  margin-top: 150px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
